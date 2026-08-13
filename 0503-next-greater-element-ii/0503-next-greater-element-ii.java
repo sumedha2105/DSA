@@ -3,22 +3,24 @@ class Solution {
         int n=nums.length;
         int[] res=new int[n];
         Stack<Integer> st=new Stack<>();
-        Arrays.fill(res,-1);
-        for(int i=2*n-1;i>=0;i--)
+        for(int i=n-2;i>=0;i--)
         {
-            int index=i%n;
-            while(!st.isEmpty() && st.peek() <=nums[index])
+            st.push(nums[i]);
+        }
+        for(int i=n-1;i>=0;i--)
+        {
+            while(!st.isEmpty() && st.peek() <= nums[i])
             {
                 st.pop();
             }
-            if(i<n)
+            if(st.isEmpty())
             {
-                if(!st.isEmpty())
-                {
-                    res[index]=st.peek();
-                }
+                res[i]=-1;
             }
-            st.push(nums[index]);
+            else{
+                res[i]=st.peek();
+            }
+            st.push(nums[i]);
         }
         return res;
     }
