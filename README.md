@@ -21,10 +21,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/sumedha2105/DSA/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/sumedha2105/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sumedha2105/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/sumedha2105/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sumedha2105/DSA/tree/master/0739-daily-temperatures) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sumedha2105/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
