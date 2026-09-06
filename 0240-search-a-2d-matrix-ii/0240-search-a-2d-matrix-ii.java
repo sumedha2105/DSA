@@ -7,11 +7,11 @@ class Solution {
         while(row>=0 && col<m)
         {
             int guess=matrix[row][col];
-            if(matrix[row][col]==target)
+            if(guess==target)
             {
                 return true;
             }
-            else if(matrix[row][col]>target)
+            else if(guess>target)
             {
                 row--;
             }
