@@ -12,12 +12,12 @@ class Solution {
             if(matrix[r][c] == target){
                 return true;
             }
-            else if(matrix[r][c]> target)
+            else if(matrix[r][c]< target)
             {
-                high=guess-1;
+                low=guess+1;
             }
             else{
-                low=guess+1;
+                high=guess-1;
             }
         }
         return false;
