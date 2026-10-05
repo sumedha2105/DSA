@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumedha2105/DSA/tree/master/0020-valid-parentheses) |
+| [0692-top-k-frequent-words](https://github.com/sumedha2105/DSA/tree/master/0692-top-k-frequent-words) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sumedha2105/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumedha2105/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumedha2105/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/sumedha2105/DSA/tree/master/0503-next-greater-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/sumedha2105/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/sumedha2105/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sumedha2105/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -63,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sumedha2105/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sumedha2105/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumedha2105/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/sumedha2105/DSA/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumedha2105/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sumedha2105/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumedha2105/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/sumedha2105/DSA/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -82,12 +86,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumedha2105/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/sumedha2105/DSA/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumedha2105/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/sumedha2105/DSA/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumedha2105/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/sumedha2105/DSA/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/sumedha2105/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
