@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/sumedha2105/DSA/tree/master/0692-top-k-frequent-words) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/sumedha2105/DSA/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
